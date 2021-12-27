@@ -12,3 +12,7 @@ class and a python function to help with the annotations. There is also a functi
 * Excel
 * Python
 * MatPlotlib
+
+# Running the code
+
+Simply open the jupter notebook and export it into google collabs. You also need to download the xslx files as well and load them into your collab session or into your google drive. This way pandas can actually open the file and run the analytics we ran. All the analytics have already been ran and saved in the notebook for everyone to look at
